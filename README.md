@@ -1,4 +1,5 @@
-Restoring tropical forests
+# Restoring tropical forests
+
 Is planting clusters of trees a cost-effective and ecologically-sound strategy to restore tropical forest?
 Karen D. Holl(University of California, Santa Cruz)
  and 
